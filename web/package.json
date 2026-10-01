@@ -6,7 +6,7 @@
     "dev": "serve -s dist -p 3000",
     "test": "npx cypress run --config viewportWidth=1920,viewportHeight=1080",
     "test:ui": "npx cypress open",
-    "test:login": "npx cypress run --spec cypress/e2e/login.cy.js -config viewportWidth=1920,viewportHeight=1080",
+    "test:login": "npx cypress run --spec cypress/e2e/login.cy.js --config viewportWidth=1920,viewportHeight=1080",
     "test:login:mobile": "npx cypress run --spec cypress/e2e/login.cy.js --config viewportWidth=414,viewportHeight=896 --headed"
   },
   "dependencies": {
