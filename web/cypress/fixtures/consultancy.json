@@ -1,0 +1,46 @@
+{
+  "personal": {
+    "name": "Jhon Pablo",
+    "email": "jhon@test.com",
+    "phone": "11999999999",
+    "consultancyType": "Individual",
+    "personType": "Pessoa Física",
+    "cpf": "55668069028",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn"
+    ],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Pretium tellus duis convallis tempus leo eu aenean. Iaculis massa nisl malesuada lacinia integer nunc posuere.",
+    "technologies": [
+      "Java",
+      "Spring"
+    ],
+    "termsAccepted": true
+  },
+  "company": {
+    "name": "Jhon Pablo",
+    "email": "jhon@test.com",
+    "phone": "11999999999",
+    "consultancyType": "In Company",
+    "personType": "Pessoa Jurídica",
+    "cnpj": "93926357000186",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Pretium tellus duis convallis tempus leo eu aenean. Iaculis massa nisl malesuada lacinia integer nunc posuere.",
+    "technologies": [
+      "Java",
+      "Spring",
+      "Vue.js",
+      "Angular",
+      "Cypress"
+    ],
+    "termsAccepted": true
+  }
+}
