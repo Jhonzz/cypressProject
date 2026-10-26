@@ -16,7 +16,6 @@ O **WebDojo** é um aplicativo exclusivo para os alunos do **Curso Ninja do Cypr
 - [x] Cypress 🧪 (Framework de testes end-to-end)
 - [x] Docker & Docker Compose 🐳 (Ambiente isolado para execução)
 - [x] PostgreSQL 🗄 (Banco de dados relacional)
-- [x] Use Bruno 🔌 (Cliente de API para testes de requisições)
 
 ## 📖 Como Usar
 
